@@ -87,7 +87,6 @@ Compare the output against the checksum listed on the corresponding [release pag
 | PDF preview / rasterization | PdfiumViewer.Core (PDFium) |
 | Cryptography / CMS signing | BouncyCastle.Cryptography |
 | Hardware token access | Pkcs11Interop (native PKCS#11 bindings) |
-| Device fingerprinting | System.Management (WMI) |
 | QR / image processing | OpenCvSharp4 + SkiaSharp |
 | Installer & auto-update | Velopack |
 | Licensing backend | FastAPI + MongoDB (closed-source) |
