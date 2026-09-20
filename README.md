@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=flat-square&logo=windows)](https://www.documentesigner.in)
 [![License](https://img.shields.io/badge/license-Proprietary-lightgrey?style=flat-square)](#license)
 
-[**Download the latest .exe →**](../../releases/latest) &nbsp;|&nbsp; [Visit documentesigner.in →](https://www.documentesigner.in)
+[**Download the latest .exe →**](../../releases/latest) &nbsp;|&nbsp; [**Bulk PDF Signer for DSC Token (Offline)**](https://www.documentesigner.in) →
 
 ---
 
@@ -66,7 +66,7 @@ If your Class 3 DSC token isn't listed, open an [issue](../../issues) and let us
 3. Launch the app, create an account in a few seconds, and your **1-day free trial** starts automatically.
 4. Insert your Class 3 DSC USB token and start signing.
 
-Full setup walkthrough: [documentesigner.in](https://www.documentesigner.in)
+Full setup walkthrough & license options: [Offline Bulk PDF Signer for Windows](https://www.documentesigner.in)
 
 ## Verifying your download
 
@@ -109,7 +109,7 @@ Yes, a 1-day full-access trial activates automatically when you create an accoun
 
 ## Support
 
-- 🌐 Website: [documentesigner.in](https://www.documentesigner.in)
+- 🌐 Official Utility: [Bulk PDF Signer for DSC Token](https://www.documentesigner.in)
 - ✉️ Contact: [documentesigner.in/contact](https://www.documentesigner.in/contact)
 - 🐛 Bug reports & driver requests: [open an issue](../../issues)
 
